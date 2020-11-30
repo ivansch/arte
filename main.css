@@ -1,0 +1,475 @@
+body {
+  background: #eff5f5;
+  margin: 0px;
+  font-family: "Open Sans", sans-serif;
+}
+
+a,
+a:hover,
+a:active,
+a:focus {
+  outline: none;
+  text-decoration: none;
+}
+
+p {
+  padding: 0;
+  margin: 0 0 30px 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.logouno {
+  width: 140px;
+  height: 140px;
+  margin-left: 240px;
+}
+
+.videoSec {
+  width: 400px;
+}
+
+.logounoS {
+  width: 90px;
+  height: 80px;
+  margin-bottom: 0px;
+  margin-top: 14px;
+}
+
+.boxVerde {
+  width: 40px;
+  margin-top: -8px;
+  margin-left: -10px;
+  margin-right: 20px;
+  height: 40px;
+  border-radius: 8px;
+  background-color: #048AA2;
+}
+
+.boxAmarillo {
+  width: 40px;
+  margin-top: -8px;
+  margin-left: -10px;
+  margin-right: 20px;
+  height: 40px;
+  border-radius: 8px;
+  background-color: #FEC82A;
+}
+
+.boxRosa {
+  width: 40px;
+  margin-top: -8px;
+  margin-left: -10px;
+  margin-right: 20px;
+  height: 40px;
+  border-radius: 8px;
+  background-color: #E352A1;
+}
+
+.boxVioleta {
+  width: 40px;
+  margin-top: -8px;
+  margin-left: -10px;
+  margin-right: 20px;
+  height: 40px;
+  border-radius: 8px;
+  background-color: #7A75B5;
+}
+
+.boxCr {
+  width: 40px;
+  margin-top: -8px;
+  margin-left: -10px;
+  margin-right: 20px;
+  height: 40px;
+  border-radius: 8px;
+  background-color: #DFC9AA;
+}
+
+.boxAzul {
+  width: 40px;
+  margin-top: -8px;
+  margin-left: -10px;
+  margin-right: 20px;
+  height: 40px;
+  border-radius: 8px;
+  background-color: #3C3F79;
+}
+
+.boxBordo {
+  width: 40px;
+  margin-top: -8px;
+  margin-left: -10px;
+  margin-right: 20px;
+  height: 40px;
+  border-radius: 8px;
+  background-color: #863345;
+}
+
+.boxRed {
+  width: 40px;
+  margin-top: -8px;
+  margin-left: -10px;
+  margin-right: 20px;
+  height: 40px;
+  border-radius: 8px;
+  background-color: #D24D38;
+}
+
+.boxV {
+  width: 40px;
+  margin-top: -8px;
+  margin-left: -10px;
+  margin-right: 20px;
+  height: 40px;
+  border-radius: 8px;
+  background-color: #0A9A54;
+}
+
+.boxVio {
+  width: 40px;
+  margin-top: -8px;
+  margin-left: -10px;
+  margin-right: 20px;
+  height: 40px;
+  border-radius: 8px;
+  background-color: #A95189;
+}
+
+.boxVer {
+  width: 40px;
+  margin-top: -8px;
+  margin-left: -10px;
+  margin-right: 20px;
+  height: 40px;
+  border-radius: 8px;
+  background-color: #A8CF45;
+}
+
+.logoUnlp {
+  width: 340px;
+  height: 80px;
+  margin-top: 14px;
+}
+
+.sectionIntro {
+  padding: 40px 88px 0px 88px;
+}
+
+.secVideo {
+  padding: 0px 90px 40px 0px;
+}
+
+.categories {
+  height: 40px;
+  width: 100%;
+  margin-bottom: 20PX;
+  border-radius: 8px;
+  text-align: center;
+  display: flex;
+  background-color: #CAE5E5;
+}
+
+.footer {
+  display: flex;
+  background-color: #CAE5E5;
+  height: 100px;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.logohead {
+  width: 208px;
+  margin-top: -70px;
+}
+
+.secat {
+  margin-bottom: 140px;
+}
+
+.imgSec {
+  width: 100%;
+  height: 200px;
+}
+
+.asec {
+  width: 240px;
+  cursor: pointer;
+  margin-right: 60px;
+  height: 240px;
+}
+
+.asec2 {
+  width: 240px;
+  cursor: pointer;
+  margin-right: 60px;
+}
+
+.container {
+  margin-top: 80px;
+  padding: 0px 60px 0px 60px;
+}
+
+.letter {
+  letter-spacing: 14px;
+}
+
+.letter2 {
+  letter-spacing: 4.5px;
+}
+
+.letter3 {
+  letter-spacing: 10px;
+}
+
+.secVideo2 {
+  padding: 40px 0px 80px 60px;
+}
+
+.parrAniv {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  color: #007f80;
+  margin-top: 5.5px;
+  font-size: 20px;
+}
+
+.divFlexs2 {
+  display: flex;
+  justify-content: center;
+  margin-top: 60px;
+}
+
+.divFlexs {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.box {
+  width: 40px;
+  margin-top: -8px;
+  margin-left: -10px;
+  margin-right: 20px;
+  height: 40px;
+  background-color: #F48734;
+  border-radius: 8px;
+}
+
+.parrC {
+  font-family: 'Open Sans', sans-serif;
+  color: #007f80;
+}
+
+.liMain {
+  font-family: 'Open Sans', sans-serif;
+  color: #007f80;
+  margin-bottom: 10px;
+}
+
+.parrTwo {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  color: #007f80;
+  margin-top: 4.5px;
+  margin-left: 6px;
+  font-size: 14px;
+}
+
+.divFlex {
+  display: flex;
+  justify-content: center;
+}
+
+.divFlexM {
+  padding-top: 60px;
+  display: flex;
+  justify-content: center;
+  background-color: #EFF5F5;
+}
+
+.headOne {
+  background-color: #DBEEEE;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.headTwos {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #CAE5E5;
+  padding: 10px;
+  display: flex;
+  justify-content: flex-start;
+  height: 40px;
+}
+
+.divlogoHead {
+  margin-right: 20px;
+  margin-left: 120px;
+}
+
+.headTwo {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #CAE5E5;
+  padding: 10px;
+  display: flex;
+  margin-bottom: 40px;
+  justify-content: center;
+  height: 40px;
+}
+
+.ulMain {
+  list-style-type: disc;
+}
+
+.subtitle {
+  font-weight: 600;
+  color: #007f80;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.title {
+  font-weight: 600;
+  color: #007f80;
+  font-size: 32px;
+  margin-top: 0px;
+}
+
+.listIcon {
+  margin-top: 26px;
+  list-style: none;
+}
+
+.parrTs {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  color: #007f80;
+  margin-top: 9px;
+  margin-left: 6px;
+  font-size: 17px;
+}
+
+.liIcon {
+  display: inline-block;
+  background-color: #007f80;
+  margin: 4px;
+  margin-left: 4px;
+  border-radius: 50%;
+}
+
+.aIcon {
+  color: white;
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+  text-decoration: none;
+  height: 42px;
+  width: 42px;
+}
+
+@media (max-width: 600px) {
+  .logouno {
+    width: 64px;
+    height: 64px;
+    margin-left: 0px;
+  }
+
+  .headTwos {
+    padding: 10px;
+    display: block;
+  }
+
+  .parrTs {
+    margin-bottom: 10px;
+    font-size: 12px;
+  }
+
+  .sectionIntro {
+    padding: 20px;
+  }
+
+  .divFlex {
+    margin: 0 auto;
+    display: block;
+  }
+
+  .divFlexs {
+    margin: 0 auto;
+    display: block;
+  }
+
+  .divFlexs2 {
+    margin: 0 auto;
+    display: block;
+  }
+
+  .secVideo {
+    padding: 20px;
+  }
+
+  .divFlexM {
+    padding-top: 0px;
+    display: block;
+  }
+
+  .aIcon {
+    height: 24px;
+    width: 24px;
+  }
+
+  .logoUnlp {
+    width: 140px;
+    height: 40px;
+    margin-top: 10%;
+  }
+
+  .imgSec {
+    width: 100%;
+    height: 200px;
+  }
+
+  .asec {
+    margin: 0 auto;
+    padding-bottom: 60px;
+  }
+
+  .logounoS {
+    width: 32px;
+    height: 32px;
+    margin-bottom: 0px;
+    margin-top: 10%;
+  }
+
+  .container {
+    margin-top: 40px;
+    padding: 0px 40px 0px 40px;
+  }
+
+  .title {
+    font-size: 22px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+  }
+
+  .subtitle {
+    font-size: 14px;
+    margin-top: 10px;
+  }
+
+  .videoSec {
+    width: 100%;
+  }
+
+  .logohead {
+    display: none;
+  }
+}
